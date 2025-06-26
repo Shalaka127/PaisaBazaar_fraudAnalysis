@@ -29,7 +29,7 @@ This project builds a data-driven model that
 
 ---
 
-## 3 · Results 🚀
+## 3 · Results 
 
 | Model          | Accuracy | Good → Poor | Standard → Poor |
 |----------------|---------:|------------:|----------------:|
